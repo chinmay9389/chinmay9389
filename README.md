@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Netflix Clone<br>🌱 I’m currently learning Django<br>💬 Ask me about Html, Css, React, Python<br>⚡ Fun fact My life revolves around code and gym
+🔭 I’m currently working on NextJS Skills<br>🌱 I’m currently learning Typescript<br>💬 Ask me about Full stack development<br>⚡ Fun fact My life revolves around code and gym
 
 
 ## 🌐 Socials:
